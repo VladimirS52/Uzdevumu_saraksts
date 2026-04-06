@@ -23,7 +23,7 @@ namespace Uzdevumus_S
                 Console.Clear();
                 Console.WriteLine("1 - Parādīt ");
                 Console.WriteLine("2 - Pievienot");
-                Console.WriteLine("3 - Atzīmēt uzdevumu kā izpildītu");
+                Console.WriteLine("3 - Atzīmēt ");
                 Console.WriteLine("4 - Dzēst uzdevumu");
                 Console.WriteLine("0 - Iziet");
                 Console.Write("Izvēlies darbību: ");
