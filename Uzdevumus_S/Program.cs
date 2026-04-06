@@ -21,7 +21,7 @@ namespace Uzdevumus_S
             while (turpinat)
             {
                 Console.Clear();
-                Console.WriteLine("1 - Parādīt uzdevumus");
+                Console.WriteLine("1 - Parādīt ");
                 Console.WriteLine("2 - Pievienot uzdevumu");
                 Console.WriteLine("3 - Atzīmēt uzdevumu kā izpildītu");
                 Console.WriteLine("4 - Dzēst uzdevumu");
