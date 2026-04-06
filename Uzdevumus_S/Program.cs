@@ -33,7 +33,7 @@ namespace Uzdevumus_S
                 switch (izvele)
                 {
                     case "1":
-                        ParaditUzdevumus();
+                        Paradi();
                         break;
                     case "2":
                         PievienotUzdevumu();
@@ -54,7 +54,7 @@ namespace Uzdevumus_S
                 }
             }
         }
-        static void ParaditUzdevumus()
+        static void Paradi()
         {
             Console.Clear();
             Console.WriteLine("VISI UZDEVUMI");
